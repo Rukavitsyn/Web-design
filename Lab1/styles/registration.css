@@ -1,0 +1,19 @@
+.gradient-custom {
+    background: #17a2b8;
+    background: no-repeat fixed url("../images/look.jpg");
+}
+
+.card {
+    background-color: #EAEAEA;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+}
+
+.card-registration .select-arrow {
+    top: 13px;
+}
