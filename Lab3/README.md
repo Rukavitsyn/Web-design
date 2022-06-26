@@ -1,0 +1,1 @@
+Кирило Рукавіцин, КВ-92.  Розробка Web-додатка засобами Javascript/VueJS. Загальне завдання:адаптувати програмний код ЛР№2 до вимог фреймворка VueJS та забезпечити завантаження необхідних даних з Web-сервера. URL (посилання) на документ звіту на Google Drive: https://drive.google.com/file/d/1TUuUrqV2xtEo2_uQ-hbNVHH69e8X-047/view?usp=sharing
